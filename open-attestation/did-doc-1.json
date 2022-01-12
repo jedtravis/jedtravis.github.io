@@ -1,0 +1,35 @@
+{
+  "didResolutionMetadata": {
+    "contentType": "application/did+ld+json",
+    "pattern": "^(did:ethr:.+)$",
+    "driverUrl": "http://uni-resolver-driver-did-uport:8081/1.0/identifiers/",
+    "duration": 202,
+    "did": {
+      "didString": "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF",
+      "methodSpecificId": "0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF",
+      "method": "ethr"
+    }
+  },
+  "didDocument": {
+    "@context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://identity.foundation/EcdsaSecp256k1RecoverySignature2020/lds-ecdsa-secp256k1-recovery2020-0.0.jsonld"
+    ],
+    "id": "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF",
+    "verificationMethod": [
+      {
+        "id": "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF#controller",
+        "type": "EcdsaSecp256k1RecoveryMethod2020",
+        "controller": "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF",
+        "blockchainAccountId": "0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF@eip155:1"
+      }
+    ],
+    "authentication": [
+      "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF#controller"
+    ],
+    "assertionMethod": [
+      "did:ethr:0x05d3c23993B5A9f03e769D9b7858B4748Bd9dcfF#controller"
+    ]
+  },
+  "didDocumentMetadata": {}
+}
