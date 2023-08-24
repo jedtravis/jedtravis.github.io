@@ -1,16 +1,24 @@
 {
   "deployer": {
-    "80001": "0xB5AfDe7219142855F71868a55C510735CBc8Fd48",
+    "address": "0xB5AfDe7219142855F71868a55C510735CBc8Fd48",
+    "1": false,
+    "137": false,
+    "56": false,
+    "11155111": false,
+    "80001": true,
+    "97": false
   }
   "implementations": {
     "umint": {
-      "1": {
-        "1": "",
-        "137": "",
-        "56": "",
-        "11155111": "",
-        "80001": "0xaC287f7aAaC6b81fFE61932c15Fc0305f5212c3b",
-        "97": ""
+      "versions": 1,
+      "1": {        
+        "address": "0xaC287f7aAaC6b81fFE61932c15Fc0305f5212c3b",
+        "1": false,
+        "137": false,
+        "56": false,
+        "11155111": false,
+        "80001": true,
+        "97": false
       }
     }
   }
