@@ -21,5 +21,16 @@
       },
       "versions": 1
     }
+  },
+  "applications": {
+    "umint": {
+      "1": false,
+      "56": false,
+      "97": false,
+      "137": false,
+      "80001": true,
+      "11155111": false,
+      "address": "0x493E2da6bdE0edaBf2A979E2E33fF26dDfb0C34f"
+    }
   }
 }
