@@ -10,7 +10,7 @@
   },
   "implementations": {
     "umint": {
-      "3": {
+      "1": {
         "1": false,
         "56": false,
         "97": false,
@@ -19,7 +19,7 @@
         "11155111": false,
         "address": "0xaC287f7aAaC6b81fFE61932c15Fc0305f5212c3b"
       },
-      "versions": 3,
+      "versions": 1,
       "name": "U-Mint"
     }
   },
