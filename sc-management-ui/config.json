@@ -6,7 +6,7 @@
     "137": false,
     "80001": false,
     "11155111": false,
-    "address": "0xB5AfDe7219142855F71868a55C510735CBc8Fd48"
+    "address": "0xadbdbb26e5f09d4457d88c270496d9a32d28d72e"
   },
   "implementations": {
     "umint": {
@@ -31,9 +31,11 @@
       "137": false,
       "80001": true,
       "11155111": false,
-      "address": "0x493E2da6bdE0edaBf2A979E2E33fF26dDfb0C34f",      
+      "address": "0x493E2da6bdE0edaBf2A979E2E33fF26dDfb0C34f",
       "name": "U-Mint",
-      "collections": ["Bored Ape Yacht Club"]
+      "collections": [
+        "Bored Ape Yacht Club"
+      ]
     }
   }
 }
