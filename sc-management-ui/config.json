@@ -2,11 +2,11 @@
   "deployer": {
     "1": false,
     "56": false,
-    "97": true,
+    "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0x946f36dd1172b059cb585d03eed493792d56ff63"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -17,7 +17,7 @@
         "137": false,
         "80001": false,
         "11155111": false,
-        "address": "0xaC287f7aAaC6b81fFE61932c15Fc0305f5212c3b"
+        "address": ""
       },
       "versions": 1,
       "name": "U-Mint"
