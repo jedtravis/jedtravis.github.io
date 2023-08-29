@@ -4,9 +4,9 @@
     "56": false,
     "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0x85c51393754bce8a2045ee41b49befb6325d6ade"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -15,9 +15,9 @@
         "56": false,
         "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xbe7cecf095dcd38afc9a372ad205d081b02403ab"
+        "address": ""
       },
       "versions": 1,
       "name": "U-Mint"
