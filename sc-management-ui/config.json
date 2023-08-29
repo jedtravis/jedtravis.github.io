@@ -4,9 +4,9 @@
     "56": false,
     "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0xad822b089276b7a6fabe49bccbb1356acdca621b"
+    "address": ""
   },
   "implementations": {
     "umint": {
