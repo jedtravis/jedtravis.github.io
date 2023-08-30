@@ -30,9 +30,9 @@
       "56": false,
       "97": false,
       "137": false,
-      "80001": false,
+      "80001": true,
       "11155111": false,
-      "address": "",
+      "address": "0xEB51e993eC16bD166437FF86b910BF375207D8BE",
       "name": "U-Mint",
       "collections": [
         "Bored Ape Yacht Club"
