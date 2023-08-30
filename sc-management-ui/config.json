@@ -4,10 +4,9 @@
     "56": false,
     "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0x51748a54fdfe6d495f0e4631d0a07aca293eea14",
-    "admin": ""
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -16,9 +15,9 @@
         "56": false,
         "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xd97053306847d67674F174f307A80fb153687554"
+        "address": ""
       },
       "versions": 1,
       "name": "U-Mint"
@@ -30,22 +29,16 @@
       "56": false,
       "97": false,
       "137": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0xEB51e993eC16bD166437FF86b910BF375207D8BE",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": [],
         "56": [],
         "97": [],
         "137": [],
-        "80001": [
-          "Artfi",
-          "BadgeToken",
-          "Bored Ape Yacht Club",
-          "CryptoPeople",
-          "Monster-Assets"
-        ],
+        "80001": [],
         "11155111": []
       }
     }
