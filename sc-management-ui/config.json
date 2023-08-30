@@ -16,9 +16,9 @@
         "56": false,
         "97": false,
         "137": false,
-        "80001": false,
+        "80001": true,
         "11155111": false,
-        "address": ""
+        "address": "0xd97053306847d67674F174f307A80fb153687554"
       },
       "versions": 1,
       "name": "U-Mint"
