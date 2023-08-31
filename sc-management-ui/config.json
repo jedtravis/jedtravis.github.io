@@ -27,7 +27,7 @@
     "umint": {
       "1": false,
       "56": false,
-      "97": false,
+      "97": true,
       "137": false,
       "80001": true,
       "11155111": false,
