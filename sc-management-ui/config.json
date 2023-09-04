@@ -22,11 +22,11 @@
       "2": {
         "1": false,
         "56": false,
-        "97": false,
+        "97": true,
         "137": false,
         "80001": false,
         "11155111": false,
-        "address": ""
+        "address": "0xC443e5f754CEe508f1A0CBd64C8F13cdCcE0edc3"
       },
       "versions": 2,
       "name": "U-Mint"
