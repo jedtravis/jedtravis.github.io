@@ -67,20 +67,7 @@
       "56": [],
       "97": [],
       "137": [],
-      "80001": [
-        {
-          "collection": "Azuki",
-          "address": "0x3856b171f87f63e3549096a9eaf7157e230a7571"
-        },
-        {
-          "collection": "Beanz",
-          "address": "0x0dd98e5f7326e52ff8e860b57220b5b536e11f9d"
-        },
-        {
-          "collection": "Bored",
-          "address": "0xd3a507e69c5379f0e67faecc1c7f8600637d8552"
-        }
-      ],
+      "80001": [],
       "11155111": []
     }
   }
