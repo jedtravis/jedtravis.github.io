@@ -71,10 +71,6 @@
         {
           "collection": "Bored",
           "address": "0xd3a507e69c5379f0e67faecc1c7f8600637d8552"
-        },
-        {
-          "collection": "Azuki",
-          "address": "0xc9ec6a25a46ddc6d57a0ad90089a426fffff7c90"
         }
       ],
       "11155111": []
