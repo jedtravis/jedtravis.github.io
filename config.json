@@ -67,7 +67,12 @@
       "56": [],
       "97": [],
       "137": [],
-      "80001": [],
+      "80001": [
+        {
+          "collection": "Bored Ape Yacht Club",
+          "address": "0xd99d3604e51312fffa788d4c1fee6b42e8fe2bdf"
+        }
+      ],
       "11155111": []
     }
   }
