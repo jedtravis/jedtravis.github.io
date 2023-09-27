@@ -1,7 +1,8 @@
 {
   "whitelisted": [
     "0x8fC279d17f9a7E197E0B8c16B238E66f1712a8f7",
-    "0x7d76b530215B8c459c706d318887f644b179dc9A"
+    "0x7d76b530215B8c459c706d318887f644b179dc9A",
+    "0x41e3f8B50FC4082A8f8bAA02a1157DfCFc3c9112"
   ],
   "deployer": {
     "1": false,
