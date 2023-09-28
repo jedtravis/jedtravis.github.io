@@ -45,9 +45,9 @@
     "56": false,
     "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0xe98bf49a85e452db17648bcff3ea1e626bb0664a"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -56,18 +56,18 @@
         "56": false,
         "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xf5F3161d3765Bd8AAFE3f3E37CC1688Ee6f99aA2"
+        "address": ""
       },
       "2": {
         "1": false,
         "56": false,
         "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xDF7d7D1903e8F59769F780AC1e748E11E1fED8C3"
+        "address": ""
       },
       "versions": 2,
       "name": "U-Mint"
@@ -79,9 +79,9 @@
       "56": false,
       "97": false,
       "137": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0xaC4a29F747Cb11AcA08E427B983f4536a5124A02",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": [],
