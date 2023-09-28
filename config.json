@@ -101,6 +101,10 @@
       "137": [],
       "80001": [
         {
+          "collection": "Azuki",
+          "address": "0xbc0e60c8b61a9491ac8c22f6f2a37c56f1b4ec02"
+        },
+        {
           "collection": "Bored Ape Yacht Club",
           "address": "0x54f8170d5c0df72d8464563d87c52487b64cadfc"
         }
