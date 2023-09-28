@@ -56,9 +56,9 @@
         "56": false,
         "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0x5400fa0F21b5fb6f94B4a038c76fF664864ff827"
+        "address": ""
       },
       "2": {
         "1": false,
@@ -79,9 +79,9 @@
       "56": false,
       "97": false,
       "137": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0xF7fD8476cF73417F6b2E1d0AbE3aaA19C6264b9e",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": [],
