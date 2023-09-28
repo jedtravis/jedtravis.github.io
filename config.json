@@ -1,8 +1,7 @@
 {
   "whitelisted": [
     "0x8fC279d17f9a7E197E0B8c16B238E66f1712a8f7",
-    "0x7d76b530215B8c459c706d318887f644b179dc9A",
-    "0xA269A2B112641F2d89238f06EfAE56fC6a8E8261"
+    "0x7d76b530215B8c459c706d318887f644b179dc9A"
   ],
   "uris": [
     {
@@ -44,31 +43,31 @@
   "deployer": {
     "1": false,
     "56": false,
-    "97": true,
+    "97": false,
     "137": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0x4d2674c8597600a28d6eaf8f681ba96edd7ddf26"
+    "address": ""
   },
   "implementations": {
     "umint": {
       "1": {
         "1": false,
         "56": false,
-        "97": true,
+        "97": false,
         "137": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xE97A4966BC5958C87989B79458FBe83E914b803D"
+        "address": ""
       },
       "2": {
         "1": false,
         "56": false,
-        "97": true,
+        "97": false,
         "137": false,
         "80001": false,
         "11155111": false,
-        "address": "0xC443e5f754CEe508f1A0CBd64C8F13cdCcE0edc3"
+        "address": ""
       },
       "versions": 2,
       "name": "U-Mint"
@@ -78,23 +77,18 @@
     "umint": {
       "1": false,
       "56": false,
-      "97": true,
+      "97": false,
       "137": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0x22BE52FBe5B2c609C08ECfbc1a6e7f9A006D5C32",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": [],
         "56": [],
-        "97": [
-          "Bored Ape Yacht Club",
-          "Pandra: Debug"
-        ],
+        "97": [],
         "137": [],
-        "80001": [
-          "Bored Ape Yacht Club"
-        ],
+        "80001": [],
         "11155111": []
       }
     }
@@ -105,12 +99,7 @@
       "56": [],
       "97": [],
       "137": [],
-      "80001": [
-        {
-          "collection": "Bored Ape Yacht Club",
-          "address": "0xd99d3604e51312fffa788d4c1fee6b42e8fe2bdf"
-        }
-      ],
+      "80001": [],
       "11155111": []
     }
   }
