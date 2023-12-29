@@ -70,10 +70,10 @@
         "97": false,
         "137": false,
         "420": false,
-        "43113": false,
+        "43113": true,
         "80001": false,
         "11155111": false,
-        "address": ""
+        "address": "0x7c6Bc2C0346B3bD65344e315158390946d275188"
       },
       "versions": 2,
       "name": "U-Mint"
