@@ -1,7 +1,7 @@
 {
   "whitelisted": [
-    "0xa1F36159a017daC0335391B926be16038078f28a",
-    "0x47884ED31780CBA65Ab1Ca25590f5a0Dd12DB411"
+    "0xb8Ffd518cC70F2F2Bfa0fe8823d7e82ab5887993",
+    "0x28061E693d5f9Dd4Cc15E86cC6984f34c7C4aE15"
   ],
   "uris": [
     {
@@ -46,10 +46,10 @@
     "97": false,
     "137": false,
     "420": false,
-    "43113": true,
-    "80001": true,
+    "43113": false,
+    "80001": false,
     "11155111": false,
-    "address": "0xed94204434e69ef0e48148fa6457be003ee9eed7"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -60,9 +60,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0x217215e89cAdCad1D1c5c2655d7F12c42BD0Fdb1"
+        "address": ""
       },
       "2": {
         "1": false,
@@ -71,9 +71,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xf4d2b0ef0ECBAabB2ABcF2D26DB4334852206846"
+        "address": ""
       },
       "versions": 2,
       "name": "U-Mint"
@@ -87,9 +87,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0x7E0736E6A7bfa7a14245935f505eAA460F0356B8",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": [],
@@ -111,12 +111,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Bored Ape Yacht Club",
-          "address": "0x822c8e73e3d321f1f4679278fdbca181a860b4c1"
-        }
-      ],
+      "80001": [],
       "11155111": []
     }
   }
