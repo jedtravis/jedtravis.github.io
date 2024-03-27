@@ -123,8 +123,12 @@
           "erc1155": []
         },
         "80001": {
-          "erc20": ["UKISS USD Coin"],
-          "erc721": [],
+          "erc20": [
+            "UKISS USD Coin"
+          ],
+          "erc721": [
+            "UKISS PudgyPenguins"
+          ],
           "erc1155": []
         },
         "11155111": {
