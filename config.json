@@ -93,7 +93,7 @@
       "name": "U-Mint",
       "collections": {
         "1": {
-          "erc20": [],
+          "erc20": ["UKISS USD Coin"],
           "erc721": [],
           "erc1155": []
         },
