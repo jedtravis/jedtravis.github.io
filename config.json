@@ -127,9 +127,7 @@
             "UKISS USD Coin"
           ],
           "erc721": [],
-          "erc1155": [
-            "UKISS Anichess Orbs of Po"
-          ]
+          "erc1155": []
         },
         "11155111": {
           "erc20": [],
