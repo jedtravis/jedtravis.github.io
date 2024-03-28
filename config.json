@@ -49,7 +49,7 @@
     "43113": false,
     "80001": true,
     "11155111": false,
-    "address": "0x627a18191801f88807c5db66db03491faec20d15"
+    "address": "0x9a0c6eb862b5d2ef8f2ebf8acea47c865d33e4b5"
   },
   "implementations": {
     "umint": {
@@ -60,9 +60,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": false,
+        "80001": true,
         "11155111": false,
-        "address": ""
+        "address": "0xE2BcD86089B31391F589fe2c0240a16198770B46"
       },
       "2": {
         "1": false,
@@ -88,7 +88,7 @@
         "43113": false,
         "80001": true,
         "11155111": false,
-        "address": "0x770d8f04545409b9dEd7C575f8EE1754d4A27aF5"
+        "address": "0x868630CB70Db3cBB82f9bD4c5aEe1f47EF578Bc7"
       },
       "versions": 1,
       "name": "Client Vault"
@@ -102,9 +102,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": false,
+      "80001": true,
       "11155111": false,
-      "address": "",
+      "address": "0x857a933933679bdD3861579EF9b8b82Cf733681b",
       "name": "U-Mint",
       "collections": {
         "1": {
@@ -138,9 +138,15 @@
           "erc1155": []
         },
         "80001": {
-          "erc20": [],
-          "erc721": [],
-          "erc1155": []
+          "erc20": [
+            "UKISS USD Coin"
+          ],
+          "erc721": [
+            "UKISS PudgyPenguins"
+          ],
+          "erc1155": [
+            "UKISS Anichess Orbs of Power"
+          ]
         },
         "11155111": {
           "erc20": [],
