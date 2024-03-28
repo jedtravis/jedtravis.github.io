@@ -77,6 +77,21 @@
       },
       "versions": 2,
       "name": "U-Mint"
+    },
+    "clientVault": {
+      "1": {
+        "1": false,
+        "56": false,
+        "97": false,
+        "137": false,
+        "420": false,
+        "43113": false,
+        "80001": false,
+        "11155111": false,
+        "address": ""
+      },
+      "versions": 1,
+      "name": "Client Vault"
     }
   },
   "applications": {
