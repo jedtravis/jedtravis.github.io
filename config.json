@@ -102,9 +102,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0x857a933933679bdD3861579EF9b8b82Cf733681b",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": {
@@ -138,15 +138,9 @@
           "erc1155": []
         },
         "80001": {
-          "erc20": [
-            "UKISS USD Coin"
-          ],
-          "erc721": [
-            "UKISS PudgyPenguins"
-          ],
-          "erc1155": [
-            "UKISS Anichess Orbs of Power"
-          ]
+          "erc20": [],
+          "erc721": [],
+          "erc1155": []
         },
         "11155111": {
           "erc20": [],
