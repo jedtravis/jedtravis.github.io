@@ -47,9 +47,9 @@
     "137": false,
     "420": false,
     "43113": false,
-    "80001": false,
+    "80001": true,
     "11155111": false,
-    "address": ""
+    "address": "0x627a18191801f88807c5db66db03491faec20d15"
   },
   "implementations": {
     "umint": {
