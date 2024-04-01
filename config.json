@@ -181,12 +181,16 @@
       "43113": [],
       "80001": [
         {
-          "collection": "Bored Ape Yacht Club",
-          "address": "0x4cDB3534CbE119DB47572F47F3a2Fe40DFF5FBc8"
-        },
-        {
           "collection": "Azuki",
           "address": "0x98f252a660d61601a7380ba6154d7b865aa55c06"
+        },
+        {
+          "collection": "Beanz",
+          "address": "0xf112a5c2e8aff85109d4b28b9be3cf1cd36d2436"
+        },
+        {
+          "collection": "Bored Ape Yacht Club",
+          "address": "0x4cDB3534CbE119DB47572F47F3a2Fe40DFF5FBc8"
         }
       ],
       "11155111": []
