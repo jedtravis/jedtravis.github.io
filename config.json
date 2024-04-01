@@ -163,7 +163,8 @@
         },
         "80001": {
           "erc20": [
-            "UKISS USD Coin"
+            "UKISS USD Coin",
+            "USD Coin"
           ],
           "erc721": [
             "Bored Ape Yacht Club",
