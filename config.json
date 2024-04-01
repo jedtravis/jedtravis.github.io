@@ -40,28 +40,6 @@
         "label": "Pudgy Pengins",
         "value": "https://ipfs.io/ipfs/bafybeibc5sgo2plmjkq2tzmhrn54bk3crhnc23zd2msg4ea7a4pxrkgfna/"
       }
-    ],
-    "erc1155": [
-      {
-        "id": 1,
-        "label": "Anichess Orbs of Power",
-        "value": "https://metadata.anichess.com/orb/"
-      },
-      {
-        "id": 2,
-        "label": "DeFi World NFT Collection",
-        "value": "https://ipfs.io/ipfs/bafybeictbnbhum364tb5duqj7kqbqudzin7uzte3oncdytwrwrpe564ecq/"
-      },
-      {
-        "id": 3,
-        "label": "AVE FENIX",
-        "value": "https://gateway.pinata.cloud/ipfs/bafybeihregwlh3keluoqn6nfef65w67xoizx3ybihth4dn3xo5pzno4rle/"
-      },
-      {
-        "id": 4,
-        "label": "SENSACIONES",
-        "value": "https://gateway.pinata.cloud/ipfs/bafybeihxwkknbwrckg3tmge3wrr7euuexyfy2nvekhg6s3m2fl7uydh7hi/"
-      }
     ]
   },
   "deployer": {
