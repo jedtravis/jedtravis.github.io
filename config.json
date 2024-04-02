@@ -206,6 +206,10 @@
       "43113": [],
       "80001": [
         {
+          "collection": "Shiba Inu",
+          "address": "0xFcec9047a9FED2BBB33aB35Eaa8e032A8F5075f4"
+        },
+        {
           "collection": "USD Coin",
           "address": "0x8655206a2f901e4ad2dce782ac8bf92b113d7c2a"
         }
