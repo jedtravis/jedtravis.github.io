@@ -1,7 +1,7 @@
 {
   "whitelisted": [
-    "0x1F028c74cC566566fC592c054708465d03087E85",
-    "0xDa944303f0D5206DBa391dFBA0c076e35a30502D"
+    "0xc8877a5A6e263cDaF3d82154C066bCE741d22897",
+    "0x89666fE59eE3C0A9314380Ccc466A10cA35A7771"
   ],
   "uris": {
     "erc721": [
@@ -67,13 +67,13 @@
   "deployer": {
     "1": false,
     "56": false,
-    "97": true,
+    "97": false,
     "137": false,
     "420": false,
     "43113": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0xd58549bd1e2192ab33fc52a767d8a31406159dd1"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -84,9 +84,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xd4e7bDe57995d9C6580c4546f5214338ef55Cde2"
+        "address": ""
       },
       "2": {
         "1": false,
@@ -95,9 +95,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xAfe2aB32406C82C17E91484bb74D6b3bA274D935"
+        "address": ""
       },
       "versions": 2,
       "name": "U-Mint"
@@ -126,9 +126,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0x0E1C80c0822DE79942FaD1be848DE04F7b5C1f4e",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": {
@@ -192,12 +192,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "USD Coin",
-          "address": "0x61c15d13234ed46cdb6472782eb556ecdbbf0eb4"
-        }
-      ],
+      "80001": [],
       "11155111": []
     },
     "erc721": {
@@ -207,12 +202,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Bored Ape Yacht Club",
-          "address": "0x17f22b9ca8e65311a09e05020d201db3195ab6c8"
-        }
-      ],
+      "80001": [],
       "11155111": []
     },
     "erc1155": {
@@ -222,12 +212,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Anichess Orbs of Power",
-          "address": "0xb6868791ce09ffa511558d69672d152f8a84c6b5"
-        }
-      ],
+      "80001": [],
       "11155111": []
     }
   }
