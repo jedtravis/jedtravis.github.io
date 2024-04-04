@@ -220,7 +220,12 @@
     "erc1155": {
       "1": [],
       "56": [],
-      "97": [],
+      "97": [
+        {
+          "collection": "UKISS Anichess Orbs of Power",
+          "address": "0xdeb4427168aca432a4ac90a9d5fb03c62ce7578f"
+        }
+      ],
       "137": [],
       "420": [],
       "43113": [],
