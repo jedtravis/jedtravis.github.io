@@ -1,7 +1,7 @@
 {
   "whitelisted": [
-    "0x5aF33742bC96f091AdD2d62a5cf3dCF0aB2C2F58",
-    "0x05214e68E141EE343e9C3530095c194D02E22aaC"
+    "0x1F028c74cC566566fC592c054708465d03087E85",
+    "0xDa944303f0D5206DBa391dFBA0c076e35a30502D"
   ],
   "uris": {
     "erc721": [
@@ -71,9 +71,9 @@
     "137": false,
     "420": false,
     "43113": false,
-    "80001": true,
+    "80001": false,
     "11155111": false,
-    "address": "0x9a0c6eb862b5d2ef8f2ebf8acea47c865d33e4b5"
+    "address": ""
   },
   "implementations": {
     "umint": {
@@ -84,9 +84,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0xE2BcD86089B31391F589fe2c0240a16198770B46"
+        "address": ""
       },
       "2": {
         "1": false,
@@ -110,9 +110,9 @@
         "137": false,
         "420": false,
         "43113": false,
-        "80001": true,
+        "80001": false,
         "11155111": false,
-        "address": "0x868630CB70Db3cBB82f9bD4c5aEe1f47EF578Bc7"
+        "address": ""
       },
       "versions": 1,
       "name": "Client Vault"
@@ -126,9 +126,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": true,
+      "80001": false,
       "11155111": false,
-      "address": "0x857a933933679bdD3861579EF9b8b82Cf733681b",
+      "address": "",
       "name": "U-Mint",
       "collections": {
         "1": {
@@ -162,18 +162,9 @@
           "erc1155": []
         },
         "80001": {
-          "erc20": [
-            "UKISS USD Coin",
-            "USD Coin"
-          ],
-          "erc721": [
-            "Bored Ape Yacht Club",
-            "UKISS PudgyPenguins"
-          ],
-          "erc1155": [
-            "DeFi World NFT Collection",
-            "UKISS Anichess Orbs of Power"
-          ]
+          "erc20": [],
+          "erc721": [],
+          "erc1155": []
         },
         "11155111": {
           "erc20": [],
@@ -188,14 +179,7 @@
         "137": [],
         "420": [],
         "43113": [],
-        "80001": [
-          "Metaverse Thailand",
-          "Sandbox",
-          "Test",
-          "Test2",
-          "Testing",
-          "UKISS Technology"
-        ],
+        "80001": [],
         "11155111": []
       }
     }
@@ -204,25 +188,11 @@
     "erc20": {
       "1": [],
       "56": [],
-      "97": [
-        {
-          "collection": "USD Coin",
-          "address": "0x3cbbd891e28ce33a4e5f3b828688f98ab98c6dc1"
-        }
-      ],
+      "97": [],
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Shiba Inu",
-          "address": "0xFcec9047a9FED2BBB33aB35Eaa8e032A8F5075f4"
-        },
-        {
-          "collection": "USD Coin",
-          "address": "0x8655206a2f901e4ad2dce782ac8bf92b113d7c2a"
-        }
-      ],
+      "80001": [],
       "11155111": []
     },
     "erc721": {
@@ -232,20 +202,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Azuki",
-          "address": "0x98f252a660d61601a7380ba6154d7b865aa55c06"
-        },
-        {
-          "collection": "Beanz",
-          "address": "0xf112a5c2e8aff85109d4b28b9be3cf1cd36d2436"
-        },
-        {
-          "collection": "Bored Ape Yacht Club",
-          "address": "0x4cDB3534CbE119DB47572F47F3a2Fe40DFF5FBc8"
-        }
-      ],
+      "80001": [],
       "11155111": []
     },
     "erc1155": {
@@ -255,16 +212,7 @@
       "137": [],
       "420": [],
       "43113": [],
-      "80001": [
-        {
-          "collection": "Anichess Orbs of Power",
-          "address": "0x625ff1510033df6c9634be0d9e53f86c3c591fd9"
-        },
-        {
-          "collection": "DeFi World NFT Collection",
-          "address": "0x47bab7b92283233386ea65fea494e41718ee19ad"
-        }
-      ],
+      "80001": [],
       "11155111": []
     }
   }
