@@ -122,13 +122,13 @@
     "umint": {
       "1": false,
       "56": false,
-      "97": false,
+      "97": true,
       "137": false,
       "420": false,
       "43113": false,
       "80001": false,
       "11155111": false,
-      "address": "",
+      "address": "0xe47703246944954B1C87e75a221a46587A8e231b",
       "name": "U-Mint",
       "collections": {
         "1": {
