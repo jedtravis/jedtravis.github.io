@@ -148,7 +148,9 @@
           "erc721": [
             "UKISS PudgyPenguins"
           ],
-          "erc1155": []
+          "erc1155": [
+            "UKISS Anichess Orbs of Power"
+          ]
         },
         "137": {
           "erc20": [],
