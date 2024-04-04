@@ -126,9 +126,9 @@
       "137": false,
       "420": false,
       "43113": false,
-      "80001": false,
+      "80001": true,
       "11155111": false,
-      "address": "",
+      "address": "0x0E1C80c0822DE79942FaD1be848DE04F7b5C1f4e",
       "name": "U-Mint",
       "collections": {
         "1": {
