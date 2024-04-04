@@ -165,9 +165,7 @@
           "erc20": [
             "USD Coin"
           ],
-          "erc721": [
-            "Bored Ape Yacht"
-          ],
+          "erc721": [],
           "erc1155": [
             "Anichess Orbs of Power"
           ]
