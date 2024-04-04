@@ -255,6 +255,10 @@
         {
           "collection": "Anichess Orbs of Power",
           "address": "0x625ff1510033df6c9634be0d9e53f86c3c591fd9"
+        },
+        {
+          "collection": "DeFi World NFT Collection",
+          "address": "0x47bab7b92283233386ea65fea494e41718ee19ad"
         }
       ],
       "11155111": []
