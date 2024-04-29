@@ -168,7 +168,9 @@
           "erc721": [
             "Bored Ape Yacht"
           ],
-          "erc1155": []
+          "erc1155": [
+            "Anichess Orbs of Power"
+          ]
         },
         "11155111": {
           "erc20": [],
