@@ -67,7 +67,7 @@
   "deployer": {
     "1": false,
     "56": false,
-    "97": false,
+    "97": true,
     "137": false,
     "420": false,
     "43113": false,
