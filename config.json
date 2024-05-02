@@ -234,6 +234,10 @@
         {
           "collection": "Anichess Orbs of Power",
           "address": "0x79aac4f8602f8f810fadb50eb04649f15e4d323e"
+        },
+        {
+          "collection": "Orbs Testings",
+          "address": "0x7b50869278bc957b2e60bf11f2f29326ff642fda"
         }
       ],
       "11155111": []
