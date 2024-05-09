@@ -217,6 +217,10 @@
       "43113": [],
       "80002": [
         {
+          "collection": "Azuki",
+          "address": "0x2f11927415fe4574ead9dc99891d67ee5353fb96"
+        },
+        {
           "collection": "Bored Ape Yacht Club",
           "address": "0x470600c26495d94278a2d65848bc838692529346"
         }
