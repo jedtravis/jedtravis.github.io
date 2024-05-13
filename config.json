@@ -72,7 +72,7 @@
     "420": false,
     "43113": false,
     "80002": true,
-    "11155111": false,
+    "11155111": true,
     "address": "0x67ebae2b27b52852ab53437d0281bb1872c147dd"
   },
   "implementations": {
